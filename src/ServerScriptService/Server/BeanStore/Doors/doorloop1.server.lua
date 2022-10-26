@@ -1,6 +1,6 @@
 local RunService = game:GetService("RunService")
 
--- doors
+-- Declare variables
 local beanDoor1 = game.Workspace.BeansStore.Door.HingeConstraint
 local beanDoor2 = game.Workspace.BeansStore.Door2.HingeConstraint
 
