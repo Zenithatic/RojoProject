@@ -10,6 +10,9 @@
       },
       "Packages": {
         "$path": "src/ReplicatedStorage/Packages"
+      },
+      "MyModules": {
+        "$path": "src/ReplicatedStorage/MyModules"
       }
     },
 
@@ -24,6 +27,12 @@
         "Client": {
           "$path": "src/StarterPlayer/StarterPlayerScripts/Client"
         }
+      }
+    },
+
+    "StarterGui": {
+      "GUIScripts": {
+        "$path": "src/StarterGUI/GUIScripts"
       }
     },
 
