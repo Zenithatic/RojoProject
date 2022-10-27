@@ -26,7 +26,7 @@ utils.secToTime = function(seconds)
         formattedMinutes = "0" .. minutes
     end
 
-    if seconds < 10 then
+    if secondsLeft < 10 then
         formattedSeconds = "0" .. secondsLeft
     end
 
